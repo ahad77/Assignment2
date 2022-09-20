@@ -1,0 +1,91 @@
+.banner-txt1{
+    color: #fabe4c;
+    font-size: 65px;
+    font-family:sans-serif;
+    
+}
+.banner-txt2{
+    color: #292a55;
+    font-size: 65px;
+    font-family: sans-serif;
+}
+.btn-clr{
+    color: white;
+    background-color: rgb(136, 163, 29);
+    height: 60PX;
+    width: 170PX;
+    border-radius: 10px;
+}
+.hdr-bg{
+    background-color: #fffbf0;
+}
+.nav-menu a{
+    color: #3b3b3b;
+}
+.CARD1{
+    color: #292a55;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.card-bg{
+    background-color: #f1f1f1;
+    border: 0;
+    border-radius: 20px;
+}
+.pn-card{
+    border: 0;
+    border-radius: 20px;
+}
+.card2{
+    background-color: #f9f9f9;
+}
+.card3{
+    background-color: white;
+}
+.footer-card{
+    background-color: white;
+    border: 0;
+}
+.price{
+    color: #fabe4c;
+    font-size: 40px;
+}
+.card4{
+    color: #292a55;
+    font-size: 25px;
+}
+.cus-sup{
+    border: 0;
+    border-radius: 20px;
+}
+.bg{
+    background-color: white;
+}
+
+.btn-new{
+    color: white;
+    background-color: rgb(136, 163, 29);
+}
+.bg-sub{
+    background-color: #292a55;
+    border-radius: 20px;
+    color: white;
+}
+.about-us{
+    text-align: center;
+    color: #292a55;
+    font-size: 50px;
+    font-family: sans-serif;
+
+}
+.text{
+    text-align: left;
+    color: rgb(136, 163, 29);
+}
+.contact-us{
+    color: #fabe4c ;
+    font-size: 50px;
+}
+.text1{
+    color: #292a55;
+}
